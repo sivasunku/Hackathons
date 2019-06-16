@@ -1,0 +1,4 @@
+3
+N  X  Y
+I  T  M
+Q  V  M
